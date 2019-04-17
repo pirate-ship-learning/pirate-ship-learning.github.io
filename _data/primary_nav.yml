@@ -1,0 +1,12 @@
+- title: Главная
+  link: /
+  show_on_mobile: true
+- title: Материалы
+  link: /docs/
+  show_on_mobile: true
+- title: Ресурсы
+  link: /resources/
+  show_on_mobile: true
+- title: Уроки
+  link: /lessons/
+  show_on_mobile: true
