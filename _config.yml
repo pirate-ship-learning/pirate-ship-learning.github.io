@@ -59,5 +59,3 @@ exclude:
 - CNAME
 - icomoon-selection.json
 - readme.md
-
-excerpt_separator: <!--more-->
