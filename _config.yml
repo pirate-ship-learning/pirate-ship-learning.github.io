@@ -1,14 +1,15 @@
 ---
-version: 3.8.5
+version: 1.0
 min_ruby_version: 2.4.0
-name: It_wiki • Коллекция материалов по программированию
+name: Коллекция материалов по программированию
 description: Обучение программированию
-url: https://korkiss.github.io/it_wiki/
-repository: https://github.com/korkiss/it_wiki
+url: https://pirate-ship-learning.github.io/it_wiki/
+repository: https://github.com/pirate-ship-learning
 #timezone: Russia/Moscow
 twitter:
-  username: korkiss
+  username: pirate-ship-learning
 logo: "/img/khan_15.png"
+author: pirate-ship-learning
 
 google_analytics_id: UA-50755011-1 
 google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
@@ -58,3 +59,5 @@ exclude:
 - CNAME
 - icomoon-selection.json
 - readme.md
+
+excerpt_separator: <!--more-->
