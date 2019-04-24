@@ -3,13 +3,14 @@ version: 1.0
 min_ruby_version: 2.4.0
 name: Коллекция материалов по программированию
 description: Обучение программированию
-url: https://pirate-ship-learning.github.io/it_wiki/
-repository: https://github.com/pirate-ship-learning
+url: https://pirate-ship-learning.github.io/
+repository: https://github.com/pirate-ship-learning/pirate-ship-learning.github.io
 #timezone: Russia/Moscow
 twitter:
   username: pirate-ship-learning
 logo: "/img/khan_15.png"
 author: pirate-ship-learning
+github_project: pirate-ship-learning.github.io
 
 google_analytics_id: UA-50755011-1 
 google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
