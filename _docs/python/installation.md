@@ -19,7 +19,7 @@ operable program or batch file.
 ```
 то выполняем команду
 ```
-setx /M path "%path%;C:\your\path\to\pyhon\"
+setx /M path "%path%;C:\your\path\to\pyhton\"
 ```
 
 Если во время установки у вас возникли пробелемы, то нужно обратиться к [официальной документации](https://docs.python.org/3/using/index.html).
