@@ -6,8 +6,8 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    addressable (2.6.0)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.5)
     em-websocket (0.5.1)
@@ -40,8 +40,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-avatar (0.6.0)
       jekyll (~> 3.0)
-    jekyll-feed (0.12.1)
-      jekyll (>= 3.7, < 5.0)
     jekyll-mentions (1.5.1)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
@@ -74,7 +72,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (3.0.3)
+    public_suffix (4.0.7)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -96,7 +94,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll-avatar
-  jekyll-feed
   jekyll-mentions
   jekyll-redirect-from
   jekyll-seo-tag
